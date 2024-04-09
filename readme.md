@@ -126,6 +126,7 @@
 ### Examples
 
 - [ChatGPT-Python-Applications](https://github.com/xiaowuc2/ChatGPT-Python-Applications) - A collection of Python web apps.
+- [AWS-Lambda-Response-Streaming](aws-lambda-response-streaming) - How to Deploy an OpenAI Streaming API on AWS Lambda Using Python.
 
 ## Browser extensions
 
